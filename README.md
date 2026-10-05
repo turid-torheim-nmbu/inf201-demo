@@ -1,2 +1,2 @@
 # inf201-demo
-INF201 demo for students
+INF201 demonstration of github workflows
